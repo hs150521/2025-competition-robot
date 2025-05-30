@@ -1,7 +1,7 @@
 # FRC 6941 IronPulse & 10541 CarbonPulse 2025 Competition Robot
 
-- 年级：
-- 姓名：
+- 年级：10升11
+- 姓名：黄敏达
 
 ## Troubleshooting
 
