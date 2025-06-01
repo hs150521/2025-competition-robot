@@ -1,6 +1,6 @@
 # FRC 6941 IronPulse & 10541 CarbonPulse 2025 Competition Robot
 
-- 年级：八升九
+- 年级：8升9
 - 姓名：王与晢
 
 ## Troubleshooting
