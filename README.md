@@ -3,7 +3,6 @@
 - 年级：7升8
 - 姓名：叶其霖
 - 
-
 ## Troubleshooting
 
 - If simulation failed with **MSVC error**, set the project JDK to wpilib2025 and add simulate to gradle run/debug
