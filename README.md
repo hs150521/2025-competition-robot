@@ -1,7 +1,7 @@
 # FRC 6941 IronPulse & 10541 CarbonPulse 2025 Competition Robot
 
-- 年级：
-- 姓名：
+- 年级：7升8
+- 姓名：叶其霖
 
 ## Troubleshooting
 
